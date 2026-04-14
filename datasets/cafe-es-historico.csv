@@ -1,0 +1,73 @@
+municipio,ano,producao_sacas,area_hectares
+São Mateus,2016,9400,780
+São Mateus,2017,10000,790
+São Mateus,2018,10600,800
+São Mateus,2019,11500,815
+São Mateus,2020,8800,820
+São Mateus,2021,10600,830
+São Mateus,2022,11900,840
+São Mateus,2023,12500,850
+São Mateus,2024,13100,870
+Linhares,2016,13700,1080
+Linhares,2017,14500,1100
+Linhares,2018,15500,1120
+Linhares,2019,16800,1150
+Linhares,2020,12800,1160
+Linhares,2021,15500,1170
+Linhares,2022,17300,1185
+Linhares,2023,18200,1200
+Linhares,2024,19500,1250
+Jaguaré,2016,11900,880
+Jaguaré,2017,12600,895
+Jaguaré,2018,13400,910
+Jaguaré,2019,14500,935
+Jaguaré,2020,11100,945
+Jaguaré,2021,13400,955
+Jaguaré,2022,15000,970
+Jaguaré,2023,15800,980
+Jaguaré,2024,16200,990
+Nova Venécia,2016,16500,1350
+Nova Venécia,2017,17600,1375
+Nova Venécia,2018,18700,1400
+Nova Venécia,2019,20200,1430
+Nova Venécia,2020,15400,1445
+Nova Venécia,2021,18700,1460
+Nova Venécia,2022,20900,1480
+Nova Venécia,2023,22000,1500
+Nova Venécia,2024,23500,1520
+Vila Valério,2016,7400,560
+Vila Valério,2017,7800,570
+Vila Valério,2018,8300,580
+Vila Valério,2019,9000,595
+Vila Valério,2020,6900,600
+Vila Valério,2021,8300,605
+Vila Valério,2022,9300,615
+Vila Valério,2023,9800,620
+Vila Valério,2024,10200,630
+Sooretama,2016,8500,670
+Sooretama,2017,9000,685
+Sooretama,2018,9600,700
+Sooretama,2019,10400,715
+Sooretama,2020,7900,720
+Sooretama,2021,9600,725
+Sooretama,2022,10700,735
+Sooretama,2023,11300,740
+Sooretama,2024,12000,760
+Pinheiros,2016,6400,500
+Pinheiros,2017,6800,510
+Pinheiros,2018,7200,520
+Pinheiros,2019,7800,530
+Pinheiros,2020,6000,535
+Pinheiros,2021,7200,540
+Pinheiros,2022,8100,545
+Pinheiros,2023,8500,550
+Pinheiros,2024,9100,570
+Montanha,2016,5400,430
+Montanha,2017,5800,440
+Montanha,2018,6100,450
+Montanha,2019,6600,460
+Montanha,2020,5000,465
+Montanha,2021,6100,470
+Montanha,2022,6800,475
+Montanha,2023,7200,480
+Montanha,2024,7800,500
