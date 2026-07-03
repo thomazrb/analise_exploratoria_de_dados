@@ -1,0 +1,82 @@
+municipio,marca,cambio,ano_modelo,km_rodados,potencia_cv,preco
+São Mateus,Hyundai,manual,2014.0,144600.0,71.0,14557.0
+Montanha,Honda,manual,2020.0,60200.0,125.0,93201.0
+Nova Venécia,Hyundai,manual,2014.0,135400.0,128.0,
+Linhares,Volkswagen,manual,2020.0,83100.0,94.0,-999.0
+Jaguaré,Ford,manual,2016.0,137900.0,94.0,34222.0
+SÃO MATEUS,Renault,manual,2013.0,178800.0,83.0,8694.0
+Sooretama,Honda,manual,2009.0,141600.0,88.0,13673.0
+Montanha,Hyundai,Manual,2013.0,173100.0,123.0,45672.0
+Montanha,Hyundai,automatico,2014.0,118600.0,88.0,33147.0
+Pinheiros,Volkswagen,automatico,2008.0,228100.0,96.0,8000.0
+Sooretama,Toyota,manual,2021.0,46900.0,127.0,101595.0
+Jaguaré,Renault,manual,2022.0,38800.0,109.0,84797.0
+sao mateus,Toyota,automatico,2024.0,24100.0,88.0,91514.0
+Pinheiros,Fiat,automatico,2007.0,228400.0,105.0,8000.0
+Nova Venécia,Honda,manual,2009.0,168400.0,61.0,8000.0
+Nova Venécia,Chevrolet,automatico,2008.0,-1.0,95.0,10642.0
+Jaguaré,Hyundai,automatico,2020.0,55300.0,96.0,74446.0
+Nova Venécia,Honda,manual,2009.0,192400.0,67.0,8000.0
+Nova Venécia,Honda,manual,2011.0,,78.0,8000.0
+Pinheiros,Hyundai,manual,2006.0,264600.0,143.0,19349.0
+Montanha,Volkswagen,AUTOMATICO,2024.0,20200.0,99.0,88022.0
+Sooretama,Ford,automatico,2015.0,160000.0,181.0,104950.0
+Linhares,Toyota,manual,2021.0,41500.0,89.0,74982.0
+Jaguaré,Chevrolet,automatico,2021.0,44700.0,61.0,46393.0
+São Mateus,Chevrolet,automatico,2019.0,87100.0,,57388.0
+Pinheiros,Volkswagen,manual,2006.0,319900.0,127.0,8000.0
+Linhares,Renault,manual,2017.0,92800.0,117.0,64088.0
+Sooretama,Chevrolet,automatico,2014.0,149800.0,109.0,-999.0
+São Mateus,Toyota,manual,2006.0,208300.0,116.0,24430.0
+Montanha,Ford,automatico,2010.0,134500.0,150.0,64197.0
+Pinheiros,Volkswagen,manual,2019.0,94400.0,122.0,76859.0
+Montanha,Ford,manual,2015.0,141500.0,107.0,44129.0
+Vila Valério,Fiat,manual,2023.0,16800.0,96.0,80786.0
+Linhares ,Fiat,manual,2020.0,56100.0,131.0,91568.0
+Jaguaré,Renault,manual,2024.0,22800.0,110.0,88785.0
+Vila Valério,Honda,manual,2008.0,320000.0,83.0,8000.0
+Nova Venécia,Ford,automatico,2022.0,50200.0,88.0,
+São Mateus,Chevrolet,manual,2016.0,89700.0,103.0,48293.0
+Jaguaré,Ford,manual,2011.0,138600.0,181.0,83910.0
+Linhares,Ford,manual,2017.0,130000.0,99.0,49921.0
+Sooretama,Volkswagen,manual,2016.0,73700.0,98.0,52358.0
+Linhares,Hyundai,manual,2007.0,258300.0,999.0,8000.0
+Pinheiros,Renault,automatico,2016.0,124300.0,146.0,84305.0
+São Mateus,Chevrolet,manual,2006.0,224200.0,136.0,26590.0
+Nova Venécia,Renault,manual,,51800.0,93.0,65953.0
+Montanha,Honda,automatico,2018.0,83900.0,109.0,79765.0
+Montanha,Ford,manual,2019.0,79200.0,60.0,28768.0
+Pinheiros,Toyota,manual,2010.0,207900.0,103.0,16830.0
+Nova Venecia,Chevrolet,automatico,2018.0,132100.0,116.0,77089.0
+Vila Valério,Ford,automatico,2018.0,82600.0,87.0,53474.0
+São Mateus,Volkswagen,automatico,2015.0,132300.0,,74527.0
+Montanha,Toyota,automatico,2007.0,196400.0,92.0,12929.0
+Nova Venécia,Hyundai,automatico,2023.0,23500.0,88.0,82367.0
+Vila Valério,Volkswagen,manual,2016.0,55200.0,107.0,62569.0
+Sooretama,Ford,manual,2008.0,211900.0,143.0,37104.0
+Vila Valério,Honda,auto,2013.0,178000.0,111.0,45220.0
+Pinheiros,Chevrolet,manual,2016.0,109300.0,131.0,68000.0
+Jaguaré,Honda,automatico,2013.0,112300.0,110.0,57110.0
+Linhares,Ford,automatico,2006.0,266500.0,166.0,46107.0
+Pinheiros,Fiat,manual,2008.0,178300.0,139.0,30147.0
+JAGUARÉ,Chevrolet,manual,2011.0,185700.0,112.0,23700.0
+Nova Venécia,Ford,automatico,2024.0,23300.0,123.0,1107890.0
+Sooretama,Fiat,automatico,2022.0,35500.0,110.0,90747.0
+São Mateus,Fiat,automatico,2023.0,30100.0,127.0,101109.0
+Vila Valério,Hyundai,manual,2011.0,145600.0,98.0,23052.0
+Montanha,Hyundai,automatico,2019.0,86600.0,107.0,68679.0
+Nova Venécia,Volkswagen,automatico,2007.0,,150.0,44302.0
+Linhares,Toyota,manual,2007.0,230500.0,60.0,8000.0
+Jaguaré,Fiat,manual,2013.0,125200.0,100.0,31370.0
+Vila Valério,Ford,automatico,2008.0,170800.0,133.0,37420.0
+Nova Venécia,Renault,manual,2014.0,158100.0,159.0,77628.0
+Sooretama,Renault,manual,2011.0,136000.0,104.0,26099.0
+Linhares,Ford,manual,2024.0,12700.0,97.0,94475.0
+Sooretama,Volkswagen,manual,2010.0,186700.0,98.0,14244.0
+Sooretama,Chevrolet,automatico,2012.0,114100.0,173.0,96266.0
+Sooretama,Hyundai,automatico,2019.0,86700.0,101.0,64267.0
+Linhares,Chevrolet,automatico,2013.0,168200.0,133.0,62953.0
+Nova Venécia,Fiat,manual,2011.0,160900.0,60.0,8000.0
+Nova Venécia,Hyundai,automatico,2013.0,166300.0,66.0,8000.0
+Jaguaré,Toyota,automatico,2024.0,19700.0,117.0,108682.0
+Sooretama,Toyota,manual,2021.0,46900.0,127.0,101595.0
